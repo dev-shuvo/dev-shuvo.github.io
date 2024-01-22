@@ -61,14 +61,12 @@ education:
     - degree: Diploma in Engineering (Computer Technology)
       university: Magura Polytechnic Institute
       time: 2019 - 2020
-      details: |
-        The results have not been published yet. However, I have been granted clearance by the college.
+      # details: |
 
     - degree: Secondary School Certificate (S.S.C.)
       university: Meherpur Technical School and College (GPA - 4.57)
       time: 2017 - 2019
-      details: |
-        GPA: 4.65
+      # details: |
 
 experiences:
   title: Experiences
@@ -134,7 +132,7 @@ projects:
       tagline: "An online food marketplace where customers can order foods and restaurants can join and publish their menu on the marketplace."
 
     - title: GadgetZone E-commerce Shop
-      link: "#"
+      link: "https://github.com/dev-shuvo/GadgetZone-Shop-Django"
       tagline: "An online E-commerce store with Stripe payment integration."
 
     - title: Classic Snake
@@ -196,6 +194,9 @@ skills:
   toolset:
     - name: HTML & CSS
       level: 90%
+
+    - name: SCSS
+      level: 85%
 
     - name: Javascript
       level: 70%
