@@ -24,7 +24,7 @@ sidebar:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: "@TheDevShuvo"
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -146,6 +146,14 @@ projects:
     - title: BikeKinbo
       link: "https://github.com/dev-shuvo/BikeKinbo-Django"
       tagline: "An online marketplace for buy/sell old bikes."
+
+     - title: AdZilla
+      link: "https://github.com/dev-shuvo/AdZilla-Classified-Ads-Template"
+      tagline: "A classified ads website template built with Bootstrap 5"
+
+      - title: ToDo App
+      link: "https://github.com/dev-shuvo/Todo-App-JavaScript"
+      tagline: "A simple to-do list app built with JavaScript."
 
 # oss:
 #   title: OSS Contributions
